@@ -9,7 +9,7 @@ A number of test cases written using JUnit are also provided to test for points 
 
 This solution is a collective effort of successful collaboration between the following students on the previously mentioned course:
 
-Anita Pourferdosi
-Alexander Gustafsson
-Ahmed Nuur
+Anita Pourferdosi,
+Alexander Gustafsson,
+Ahmed Nuur,
 Pushpendra U.
